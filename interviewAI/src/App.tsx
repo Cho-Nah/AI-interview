@@ -1,8 +1,10 @@
+import IntroductionPage from "./pages/IntroductionPage.tsx";
+
 function App() {
   return (
     <>
       <div>
-        <h1>hola</h1>
+        <IntroductionPage />
       </div>
     </>
   );
